@@ -1,5 +1,6 @@
-﻿using Entities.Abstract;
-using Entities.Concrete;
+﻿
+
+using Core.Entites;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAcces1.Abstract
+namespace Core.DataAcces
 {
     //class : referans tip
     //IEntity : IEntity olabilir veya IEntity implemente eden bir nesne  olabilir
